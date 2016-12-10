@@ -1,2 +1,2 @@
 # raghavdaruka
-Repository for &lt;insert name here>
+Repository for Raghav Daruka
